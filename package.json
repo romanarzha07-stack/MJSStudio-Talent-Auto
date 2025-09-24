@@ -1,0 +1,8 @@
+{
+  "name": "mjs-studio-ai-v3",
+  "version": "1.0.0",
+  "description": "Frontend with a Netlify function for secure Gemini API calls.",
+  "dependencies": {
+    "@google/genai": "^1.20.0"
+  }
+}

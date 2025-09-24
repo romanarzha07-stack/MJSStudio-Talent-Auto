@@ -1,0 +1,5 @@
+{
+  "name": "MJS STUDIO AI AUTOMATIC v3",
+  "description": "An AI-powered application to automatically generate visual images (clothing, accessories, full-body outfits) with control over poses, references, subject descriptions, and interactive camera angle adjustments. friendly for singles or couples.",
+  "requestFramePermissions": []
+}
